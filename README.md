@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DrTrojan
+- 👀 I’m interested in ... Creative coding
+- 🌱 I’m currently learning ... DSA
+- 😄 Pronouns: ... He/him
+- ⚡ Fun fact: ... I plan to learn 5 langauges by 2025!
